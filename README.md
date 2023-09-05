@@ -1,18 +1,30 @@
 <h1 align="center">Hi 👋, I'm Mohamed Saeed</h1>
-<h3 align="center">An aspiring Automation Consultant @ Evolvant tech.</h3>
+<h3 align="center">Senior Software Engineer @ Trapeze Group APAC, Middle East, Africa</h3>
 
-- 🔭 I currently build, deploy, and manage software robots **that emulate humans actions interacting with digital systems and software.**
+- 👨‍💻 I'm a Senior Software Engineer based in Dubai, United Arab Emirates, with a strong focus on Python development.
 
-- 👯 I've kicked off my career as a **Python Developer**
+- 🐍 Python is my primary language, and I excel in leveraging its power to create robust and efficient software solutions.
 
-- 🤝 aspire to grow into leadership roles in **AI, Automation and Machine Learning in the coming years.**
+- 🌐 I specialize in developing interactive web applications using JavaScript, Angular, CSS, and HTML.
 
-- 📫 How to reach me **https://didosaeed.github.io/**
+- ☕ Additionally, I work on backend service software using Java and contribute to enhancing existing software products.
+
+- 📊 My development process follows rigorous Software Development Life Cycles, ensuring thorough testing and verification.
+
+- 🤝 I collaborate with clients to analyze and document product requirements, estimate effort, and translate business needs into technical solutions.
+
+- 💼 In addition to Python, I'm proficient in various languages and technologies, including:
+  - JavaScript
+  - Java
+  - Bash
+  - HTML5
+  - Cascading Style Sheets (CSS)
+  - Microsoft SQL Server
+  - And more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-saeed-youssef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-saeed-youssef/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/didosaeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/didosaeed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-saeed-youssef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
