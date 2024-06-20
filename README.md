@@ -1,26 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Saeed</h1>
 <h3 align="center">Senior Software Engineer @ Trapeze Group APAC, Middle East, Africa</h3>
 
-- 👨‍💻 I'm a Senior Software Engineer based in Dubai, United Arab Emirates, with a strong focus on Python development.
+- 👨‍💻 I'm a Senior Software Engineer based in Dubai, United Arab Emirates, focusing strongly on Flutter development.
 
 - 🐍 Python is my primary language, and I excel in leveraging its power to create robust and efficient software solutions.
-
-- 🌐 I specialize in developing interactive web applications using JavaScript, Angular, CSS, and HTML.
-
-- ☕ Additionally, I work on backend service software using Java and contribute to enhancing existing software products.
 
 - 📊 My development process follows rigorous Software Development Life Cycles, ensuring thorough testing and verification.
 
 - 🤝 I collaborate with clients to analyze and document product requirements, estimate effort, and translate business needs into technical solutions.
 
-- 💼 In addition to Python, I'm proficient in various languages and technologies, including:
-  - JavaScript
-  - Java
-  - Bash
-  - HTML5
-  - Cascading Style Sheets (CSS)
-  - Microsoft SQL Server
-  - And more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
